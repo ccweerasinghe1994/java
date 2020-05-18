@@ -60,6 +60,12 @@ public class Main {
             System.out.println("It is not an alien");
         }
 
+        int TopScore = 101;
+        int secondScore = 12;
+        if (TopScore > 100 && secondScore < 13) {
+            System.out.println("Top Score Is More Than 100 ");
+        }
+
 
     }
 }
