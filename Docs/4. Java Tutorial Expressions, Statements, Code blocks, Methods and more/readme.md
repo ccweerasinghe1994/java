@@ -1,7 +1,7 @@
 # Java Tutorial Expressions, Statements, Code blocks, Methods and more
 
 1. [Keyword And Expression](./2.%20Keywords%20And%20Expressions/KeywordAndExpression.md)
-1. [3. Statements, Whitespace and Indentation (Code Organization)](./3.%20Statements,%20Whitespace%20and%20Indentation%20(Code%20Organization)/3.%20Statements,%20Whitespace%20and%20Indentation.md)
+1. [Statements, Whitespace and Indentation (Code Organization)](./3.%20Statements,%20Whitespace%20and%20Indentation%20(Code%20Organization)/3.%20Statements,%20Whitespace%20and%20Indentation.md)
 1. [Code Blocks And The If Then Else Control Statements](./4.%20Code%20Blocks%20And%20The%20If%20Then%20Else%20Control%20Statements/4.%20Code%20Blocks%20And%20The%20If%20Then%20Else%20Control%20Statem.md)
 1. [if then else Recap](./5.%20if%20then%20else%20Recap/5.%20if%20then%20else%20Recap.md)
 1. [Methods In Java](./6.%20Methods%20In%20Java/6.%20Methods%20In%20Java.md)
