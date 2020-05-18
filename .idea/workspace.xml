@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c273378-af58-4fa6-b6cf-6a2d91b2cddd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/3.Variables,DatatypesandOperators/moreOperators.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589773724300</updated>
-      <workItem from="1589773727861" duration="2965000" />
+      <workItem from="1589773727861" duration="3312000" />
     </task>
     <servers />
   </component>
