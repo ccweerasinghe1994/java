@@ -20,28 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bca2e15-39d9-4b5c-ae3a-03d287f121e9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/out/production/10. More On Operators And Operator Precedence/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KeywordsAndExpressions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/timbuchalka/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Docs/3.Variables,DatatypesandOperators/img/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Docs/3.Variables,DatatypesandOperators/img/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Docs/3.Variables,DatatypesandOperators/img/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Docs/3.Variables,DatatypesandOperators/img/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Docs/4. Java Tutorial Expressions, Statements, Code blocks, Methods and more/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Docs/3.Variables,DatatypesandOperators/img/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Docs/3.Variables,DatatypesandOperators/img/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Docs/3.Variables,DatatypesandOperators/moreOperators.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Docs/3.Variables,DatatypesandOperators/moreOperators.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KeywordsAndExpressions/com/timbuchalka/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KeywordsAndExpressions/com/timbuchalka/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +85,7 @@
       <updated>1435290326691</updated>
       <workItem from="1435290332375" duration="496000" />
       <workItem from="1589785704530" duration="118000" />
+      <workItem from="1589787382522" duration="206000" />
     </task>
     <servers />
   </component>
@@ -118,28 +102,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="340" key="FileChooserDialogImpl" timestamp="1589785821502">
+    <state x="740" y="340" key="FileChooserDialogImpl" timestamp="1589787586998">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state x="740" y="340" key="FileChooserDialogImpl/1920.12.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1589785821502" />
-    <state width="1877" height="325" key="GridCell.Tab.0.bottom" timestamp="1589785822432">
+    <state x="740" y="340" key="FileChooserDialogImpl/1920.12.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1589787586998" />
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom" timestamp="1589787587733">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state width="1877" height="325" key="GridCell.Tab.0.bottom/1920.12.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1589785822432" />
-    <state width="1877" height="325" key="GridCell.Tab.0.center" timestamp="1589785822432">
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom/1920.12.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1589787587733" />
+    <state width="1877" height="325" key="GridCell.Tab.0.center" timestamp="1589787587732">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state width="1877" height="325" key="GridCell.Tab.0.center/1920.12.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1589785822432" />
-    <state width="1877" height="325" key="GridCell.Tab.0.left" timestamp="1589785822432">
+    <state width="1877" height="325" key="GridCell.Tab.0.center/1920.12.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1589787587732" />
+    <state width="1877" height="325" key="GridCell.Tab.0.left" timestamp="1589787587732">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state width="1877" height="325" key="GridCell.Tab.0.left/1920.12.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1589785822432" />
-    <state width="1877" height="325" key="GridCell.Tab.0.right" timestamp="1589785822432">
+    <state width="1877" height="325" key="GridCell.Tab.0.left/1920.12.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1589787587732" />
+    <state width="1877" height="325" key="GridCell.Tab.0.right" timestamp="1589787587733">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state width="1877" height="325" key="GridCell.Tab.0.right/1920.12.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1589785822432" />
+    <state width="1877" height="325" key="GridCell.Tab.0.right/1920.12.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1589787587733" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
