@@ -20,10 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c273378-af58-4fa6-b6cf-6a2d91b2cddd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Docs/3.Variables,DatatypesandOperators/moreOperators.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/out/production/10. More On Operators And Operator Precedence/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Java Tutorial Expressions, Statements, Code blocks, Methods and more/2. Keywords And Expressions/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Java Tutorial Expressions, Statements, Code blocks, Methods and more/2. Keywords And Expressions/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Java Tutorial Expressions, Statements, Code blocks, Methods and more/2. Keywords And Expressions/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Java Tutorial Expressions, Statements, Code blocks, Methods and more/2. Keywords And Expressions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Java Tutorial Expressions, Statements, Code blocks, Methods and more/2. Keywords And Expressions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Java Tutorial Expressions, Statements, Code blocks, Methods and more/2. Keywords And Expressions/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Java Tutorial Expressions, Statements, Code blocks, Methods and more/2. Keywords And Expressions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Java Tutorial Expressions, Statements, Code blocks, Methods and more/2. Keywords And Expressions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Java Tutorial Expressions, Statements, Code blocks, Methods and more/2. Keywords And Expressions/KeywordsAndExpressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Java Tutorial Expressions, Statements, Code blocks, Methods and more/2. Keywords And Expressions/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/3.Variables,DatatypesandOperators/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/3.Variables,DatatypesandOperators/img/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/3.Variables,DatatypesandOperators/img/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/3.Variables,DatatypesandOperators/img/8.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/3. Variables, Datatypes and Operators/10. More On Operators And Operator Precedence/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/3.Variables,DatatypesandOperators/img/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/3.Variables,DatatypesandOperators/img/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/3.Variables,DatatypesandOperators/moreOperators.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/3.Variables,DatatypesandOperators/moreOperators.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589773724300</updated>
-      <workItem from="1589773727861" duration="3312000" />
+      <workItem from="1589773727861" duration="4990000" />
     </task>
     <servers />
   </component>
