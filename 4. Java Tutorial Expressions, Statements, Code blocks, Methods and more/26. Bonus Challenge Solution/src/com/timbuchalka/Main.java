@@ -13,7 +13,7 @@ public class Main {
     }
 
     private static String getDurationString(long minutes, long seconds) {
-        if((minutes < 0) || (seconds <0) || (seconds > 59)) {
+        if ((minutes < 0) || (seconds < 0) || (seconds > 59)) {
             return INVALID_VALUE_MESSAGE;
         }
 
@@ -21,17 +21,17 @@ public class Main {
         long remainingMinutes = minutes % 60;
 
         String hoursString = hours + "h";
-        if(hours < 10) {
+        if (hours < 10) {
             hoursString = "0" + hoursString;
         }
 
         String minutesString = remainingMinutes + "m";
-        if(remainingMinutes < 10) {
+        if (remainingMinutes < 10) {
             minutesString = "0" + minutesString;
         }
 
         String secondsString = seconds + "s";
-        if(seconds < 10) {
+        if (seconds < 10) {
             secondsString = "0" + secondsString;
         }
 
@@ -40,7 +40,7 @@ public class Main {
     }
 
     private static String getDurationString(long seconds) {
-        if(seconds < 0) {
+        if (seconds < 0) {
             return INVALID_VALUE_MESSAGE;
         }
 

@@ -75,20 +75,20 @@ public class Main {
 ////        return 4;
         int position = 4;  // assuming position 4 will be returned
 
-        if(playerScore >= 1000) {
+        if (playerScore >= 1000) {
             position = 1;
-        } else if(playerScore >= 500) {
+        } else if (playerScore >= 500) {
             position = 2;
-        } else if(playerScore >= 100) {
+        } else if (playerScore >= 100) {
             position = 3;
         }
 
         return position;
     }
 
-    public static int calculateScore(boolean gameOver,int score, int levelCompleted, int bonus) {
+    public static int calculateScore(boolean gameOver, int score, int levelCompleted, int bonus) {
 
-        if(gameOver) {
+        if (gameOver) {
             int finalScore = score + (levelCompleted * bonus);
             finalScore += 2000;
             return finalScore;

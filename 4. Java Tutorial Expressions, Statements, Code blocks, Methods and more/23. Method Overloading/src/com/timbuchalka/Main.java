@@ -7,8 +7,8 @@ public class Main {
         System.out.println("New score is " + newScore);
         calculateScore(75);
         calculateScore();
-        double centimeters = calcFeetAndInchesToCentimeters(6,0);
-        if(centimeters <0.0) {
+        double centimeters = calcFeetAndInchesToCentimeters(6, 0);
+        if (centimeters < 0.0) {
             System.out.println("Invalid parameters");
         }
 
@@ -44,7 +44,7 @@ public class Main {
 
     public static double calcFeetAndInchesToCentimeters(double feet, double inches) {
 
-        if((feet <0) || ((inches <0) || (inches >12))) {
+        if ((feet < 0) || ((inches < 0) || (inches > 12))) {
             System.out.println("Invalid feet or inches parameters");
             return -1;
         }
@@ -57,7 +57,7 @@ public class Main {
 
     public static double calcFeetAndInchesToCentimeters(double inches) {
 
-        if(inches < 0) {
+        if (inches < 0) {
             return -1;
         }
 
@@ -68,29 +68,7 @@ public class Main {
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        public static int calculateScore(String playerName, int score) {
+    public static int calculateScore(String playerName, int score) {
         System.out.println("Player " + playerName + " scored " + score + " points");
         return score * 1000;
     }
@@ -104,7 +82,6 @@ public class Main {
         System.out.println("No player name, no player score.");
         return 0;
     }
-
 
 
 }
